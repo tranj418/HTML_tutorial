@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+    <title>JIM'S WEBSITE</title>
+    <H3>TITLE IN THE HEADER SECTION</H3>
+</HEAD>
+
+<BODY>
+
+    <table border="3px" bgcolor="BLACK" height="150", width="100%">
+        <TR bgcolor="#33f222">
+            <TH width="75">Month -</TH>
+            <TH>January</TH>
+            <TH>February</TH>
+            <TH>March</TH>
+        </TR>
+        <tr bgcolor="#f22233" align="center">
+            <th>Income -</th>
+            <td>$2900</td>
+            <td>$3100</td>
+            <td>$3250</td>   
+        </tr>
+        <tr bgcolor="#f2e422" align="center">
+            <th>Expenses -</th>
+            <td>$1400</td>
+            <td>$1250</td>
+            <td>$1420</td>
+        </tr>
+    </table>
+
+
+</BODY>
+
+
+</HTML>
