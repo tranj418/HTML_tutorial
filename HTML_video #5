@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<HTML>
+    <HEAD>
+        <title>JIM'S WEBSITE</title>
+    </HEAD>
+
+    <BODY>
+        <video controls loop muted autoplay>
+            <source src="INSERT MP4 FILE HERE.mp4">
+        </video>
+    </BODY>
+
+
+</HTML>
