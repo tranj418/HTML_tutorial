@@ -1,0 +1,15 @@
+h1{
+    background-color:#f5a511;
+    color: #f5f505;
+    border: 3px;
+}
+
+
+
+p{
+    text-decoration: dashed;
+    color: #05d1f5;
+    border: 5px;
+    border-color: black;
+    border-radius: 10px;
+}
