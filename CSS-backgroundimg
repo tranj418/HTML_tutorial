@@ -1,0 +1,48 @@
+
+/*  <link rel="stylesheet" type="text/css" href="style.css"> */
+
+h1{
+    background-image: url(nightskyline.jpg);
+    color:black;
+    border-style: solid;
+    padding: 5px;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+
+
+/*p{
+    text-decoration: dashed;
+    color: #05d1f5;
+    border-color: black;
+    border-style:solid;
+    padding: 3px;
+    border-bottom-style: dashed;
+    border-left-width: 15px;
+}*/
+
+
+html{
+    /*background: linear-gradient(grey, aqua);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;*/ /* This determines if the bg will stay in place or scroll with the page*/
+
+    background-image: url(citybg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /*Will have the bg img take up the full size of the window*/
+
+}
+
+/*ex for applying css for tags with ids*/
+#mytext{
+    background: linear-gradient(to right, white, gray);
+    border: solid;
+    padding: 3px;
+}
+
+
