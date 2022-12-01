@@ -1,0 +1,23 @@
+
+/*  <link rel="stylesheet" type="text/css" href="style.css"> */
+
+h1{
+    background-color:#f5a511;
+    color:black;
+    border-style: solid;
+    padding: 5px;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+
+
+p{
+    text-decoration: dashed;
+    color: #05d1f5;
+    border-color: black;
+    border-style:solid;
+    padding: 3px;
+    border-bottom-style: dashed;
+    border-left-width: 15px;
+}
