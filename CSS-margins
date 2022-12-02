@@ -1,0 +1,54 @@
+h1{
+    border: 1px solid;
+    width: 300px;
+    margin: -7px;
+}
+
+p{
+    border: 1px solid;
+    width: 250px;
+    padding: 25px; /*Padding is the distance  between html border and it's elements inside*/
+    margin: 55px; /*Adds space between and element's border and the edge of the site*/
+}
+
+
+
+/*Use the hashtag to target elements with an ID specified*/
+#p1{
+    margin: 25px;
+}
+
+
+#p2{
+    margin-top: 10px;
+    margin-right: 90px;
+    margin-bottom: 25px;
+    margin-left: 65px;
+    /*This is the same way as the 4 lines above*/
+    margin: 25px, 90px, 25px, 65px; /*Top, right, bottom, left*/
+}
+
+
+
+
+#p3{
+    margin: 10;
+}
+
+
+
+
+#p4{
+    margin-left: auto; /*Causes the element to stay in the corner, even if the window is resized*/
+}
+
+
+
+#p5{
+    margin-right: auto;
+}
+
+
+#p6{
+    margin: auto;
+}
