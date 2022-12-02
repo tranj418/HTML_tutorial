@@ -1,0 +1,26 @@
+h1{
+    border: 1px solid;
+    width: 200px;
+    padding: 25px;
+    background-color: black;
+    color: white;
+    border-color: black;
+
+    text-shadow: 0px 0px 5px  yellow, 0px -5px 5px red;
+    /*
+        horizontal px
+        vertical px
+        blur effect px
+        color name, hex, or rgb
+    */
+    /*The second set of inputs for text shadow is to add another shadow on the existing one*/
+
+
+    box-shadow: 10px 10px 8px #666666;
+    /*
+        horizontal px
+        vertical px
+        blur effect px
+        color name, hex, or rgb
+    */
+}
