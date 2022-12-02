@@ -1,0 +1,65 @@
+/*Pseudo class changing unclicked hyperlinks*/
+
+a:link{
+    color:#2375fa;
+}
+
+
+/*for hyper links that were clicked on*/
+a:visited{
+
+    color: #ed1405;
+}
+
+/*change button appearance when you hover over it*/
+button:hover{
+    background-color:#c82bf0;
+    color: white;
+}
+
+button:active{
+    background-color:#7d029c;
+}
+
+/*This will apply to the FIRST element in the list*/
+/*
+li:first-child{
+
+    background-color:#07e625;
+
+}
+
+li:last-child{
+    background-color: #07e625;
+
+}*/
+
+/*targeting a specific item in a list/grouping*/
+/*li:nth-child(4){
+    background-color: #07e625;
+}*/
+
+/*
+li:nth-child(odd){
+    background-color: #07e625;
+}
+
+li:nth-child(even){
+    background-color: #4df062;
+}
+*/
+
+/*
+li:nth-child(3n+1){
+
+
+    background-image: linear-gradient(to right,#fff444, #ffffff);
+    /*
+    an+b
+    a = cycle size - how many times it repeats
+    n = counter, starts at 0
+    b = off set value
+    */
+
+
+/*}*/
