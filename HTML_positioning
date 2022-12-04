@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+
+<HTML>
+
+    <HEAD>
+
+        <link rel="stylesheet" type="text/css" 
+        href="style2.css">
+
+
+    </HEAD>
+    <BODY>
+
+        <!--text alignment-->
+        <!--
+        <p id="p1">LEFT</p>
+        <p id="p2">CENTER</p>
+        <p id="p3">RIGHT</p>
+        -->
+
+        <!--Float Propterty all other elements will float around it--> 
+        <!--
+        <div>
+        <img src="miniburger.png" style="width: 150px; height: 150px;">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea odio accusamus suscipit error, saepe doloremque sapiente, consectetur eum quod quisquam nihil tenetur tempora exercitationem. 
+        Cumque vitae saepe provident eveniet voluptates?</p></div>
+        -->
+
+        <!--Position property: fixed/relative/sticky/absolute/static-->
+        <!--
+        <h1>static</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, ipsa dolore quos quidem nobis repellat asperiores commodi enim quo minima. 
+            Nisi quam tempora amet, voluptates quis minus dicta provident neque.</p>
+        
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, ipsa dolore quos quidem nobis repellat asperiores commodi enim quo minima. 
+            Nisi quam tempora amet, voluptates quis minus dicta provident neque.</p>
+            
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, ipsa dolore quos quidem nobis repellat asperiores commodi enim quo minima. 
+            Nisi quam tempora amet, voluptates quis minus dicta provident neque.</p>
+        -->
+
+
+        <!--For the positioning absolute-->
+        <div id="box1">This is relative <!--Ancestor of id=box2-->
+
+        <div id="box2">This is absolute</div>
+
+        </div>
+
+
+
+
+    </BODY>
+
+</HTML>
