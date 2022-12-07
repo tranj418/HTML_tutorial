@@ -1,0 +1,33 @@
+p{
+    width: 100px;
+    background-color: red;
+    font-size: 85px;
+    text-align: center;
+    margin: 0px;
+}
+
+#p1{
+
+}
+
+#p2{
+    /*transform: translateX(50px);*/
+    /*transform: translateY(50px); shifts in x or y axis*/
+    /*transform: translate(50px, 50px);*/ 
+    /*transform: rotateX(180deg);*/
+    /*transform: rotateY(180deg);*/
+    /*transform: rotateZ(180deg); rotates the HTML element*/
+    /*transform: scaleX(1); stretches or thins it out */
+    /*transform: scaleY(1);*/
+    /*transform: skewY(45deg);puts the element on an angle*/ 
+    /*transform: matrix(0.5,1,1,0.5,50,50);*/
+
+    /*
+        scaleX(), num has to be greater than 0
+        skewY(),
+        skewX(),
+        scaleY(), num has to be greater than 0
+        translateX(),
+        translateY()
+    */
+}
