@@ -1,0 +1,44 @@
+img{
+    width: 75px;
+    height: 75px;
+}
+
+#yt{
+    color: red;
+    background-color: aqua;
+}
+
+#dragon{
+    background-color: green;
+}
+
+
+
+-----------
+HTML
+-----------
+
+<!DOCTYPE HTML>
+
+<HTML>
+
+    <HEAD>
+
+        <link rel="stylesheet" type="text/css"
+        href="style2.css">
+
+    </HEAD>
+
+
+    <BODY>
+
+        <h1>Icon Demo</h1>
+
+        <!--didn't want to create a second stylesheet like in the bro code video-->
+        <img src="house-solid.svg" id="home">
+        <a href="https://www.youtube.com" target="_blank"><img src="youtube.svg" id="yt"></a>
+        <img src="dragon.svg" id="dragon">
+        <img src="spinner-solid.svg" id="spin">
+
+    </BODY>
+</HTML>
