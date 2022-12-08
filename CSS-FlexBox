@@ -1,0 +1,72 @@
+ .container{
+    display: flex;
+    flex-wrap: wrap; /*Allows the items to move down when the page is re-adjusted in size*/
+    background-color: #444444;
+    /*flex-direction: column-reverse;*/
+    /*width: 110px;*/
+    /*
+    justify-content: flex-start;
+    justify-content: center;
+    justify-content: flex-end;
+    justify-content: space-around;
+    */
+
+    height: 400px;
+    align-items: center;
+
+}
+
+
+/*The "." is to represent the class and the html element after*/
+/*The # is for html elements with an ID*/
+.container div{
+    color: white;
+    height: 100px;
+    width: 100px;
+    background-color: #999999;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    margin: 5px;
+}
+
+---------------
+HTML
+---------------
+
+<!DOCTYPE HTML>
+
+<HTML>
+
+    <HEAD>
+
+        <link rel="stylesheet" type="text/css"
+        href="style2.css">
+
+
+
+    </HEAD>
+
+
+    <BODY>
+
+        <h1>Flexbox Demo</h1>
+        <div class="container">
+
+            <div>#1</div>
+            <div>#2</div>
+            <div>#3</div>
+            <div>#4</div>
+            <div>#5</div>
+            <div>#6</div>
+            <div>#7</div>
+
+
+        </div>
+
+
+    </BODY>
+
+
+
+</HTML>
